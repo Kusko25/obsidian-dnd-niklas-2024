@@ -18,7 +18,7 @@ tags:
 - Magische Fesseln mit einem Ring verbunden wurden genutzt um [[Rose]] zu kontrollieren
 - Trug einen Brief
 - Wir haben den Sklavenhändler gefesselt und in einem Raum in der Taverne eingesperrt bis wir ihn in die Stadt eskortieren können
-	- Bob hat was magisches gemacht, aber ich weiß nicht mehr was
+	- [[Bob]] hat was magisches gemacht, aber ich weiß nicht mehr was
 - [[Rose]] ist in der Blauen Gabel geblieben
 	- Wir haben ihr etwas Gold gegeben damit sie zurecht kommt
 	- Zeugenaussage wurde aufgenommen

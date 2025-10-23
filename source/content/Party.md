@@ -2,7 +2,7 @@
 - Holz Wagen
 ## Pferde
 - Wolke 
-	- gehört "haarfarben ranger"
+	- gehört [[Lou]]
 - Hubert
 	- Dickes Pferd
 - Gary 

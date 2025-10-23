@@ -4,7 +4,7 @@ relatedQuest: "[[The ORB]]"
 tags: NPC
 ---
 # Visionen
-## Bob's Kontakt mit dem Orb
+## [[Bob]]'s Kontakt mit dem Orb
 - Orivanne wurde verfolgt mit Menschen
 - Dunkler Raum mit Wasser
 	- "Befrei mich"

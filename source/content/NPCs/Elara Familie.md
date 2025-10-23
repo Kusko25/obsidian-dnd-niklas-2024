@@ -7,4 +7,4 @@ tags:
 - Familie in LeDreux, involviert im Sklavenhandel
 ## Lord Elara
 - Involviert im Sklavenhandel
-- Beabsichtigter Empfänger von Rose
+- Beabsichtigter Empfänger von [[Rose]]
