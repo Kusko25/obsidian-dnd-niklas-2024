@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"pagetype\":\"Location\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6084208
+      }
+    },
+    {
+      "query": "[\"pagetype\":\"Quest\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16765818
+      }
+    },
+    {
+      "query": "[\"pagetype\":\"NPC\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6084290
+      }
+    },
+    {
+      "query": "[\"pagetype\":\"Lore\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14048454
+      }
+    },
+    {
+      "query": "[\"pagetype\":\"Charakter\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}

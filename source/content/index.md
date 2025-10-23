@@ -1,7 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: DnD - The Quest to Orb
 ---
-
-Hello world!
-
-Write some words here!
+Notizen für die DnD Kampagne im Internet weil Hyperfocus real ist.

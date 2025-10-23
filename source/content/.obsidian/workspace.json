@@ -1,14 +1,43 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "23f64cde686914cb",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "ba03ce296a79b8a3",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "ffbe6bb98ca51ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quest Tagebuch/Warforged Mystery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warforged Mystery"
+            }
+          },
+          {
+            "id": "44b48d9f9caf0073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charaktere/Lou.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lou"
+            }
+          },
+          {
+            "id": "9407c8004ff131ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,66 +45,83 @@
                 "file": "index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1ce618a06e38f3ec",
+        "type": "tabs",
+        "children": [
           {
-            "id": "2d8837e6263008e3",
+            "id": "57017af51ad1fd0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "NPCs/Elara Familie.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Elara Familie"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "d7764c87d4c2586e",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "de1fd63613f0557d",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "6206a1e9bc350ed7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "87b976caf1e49a44",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Session Tagebuch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "d672f91f6442fbf1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,20 +131,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "0d7d0fd8582d4b5c",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "00812ec9f8a342d0",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "cfa7dcec97303d49",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Session Tagebuch/Session 10 - Oktober 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,65 +152,120 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 10 - Oktober 2025"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "943676456eccd610",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Session Tagebuch/Session 10 - Oktober 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 10 - Oktober 2025"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "bda7ecd9152d7d3f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "c01857775f41bad2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "Session Tagebuch/Session 10 - Oktober 2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 10 - Oktober 2025"
+            }
+          },
+          {
+            "id": "32ea057f010c39c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "9407c8004ff131ae",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
+    "Session Tagebuch/Session 10 - Oktober 2025.md",
     "index.md",
-    "category-folder"
+    "Charaktere/Lou.md",
+    "NPCs/Kusch Familie.md",
+    "Quest Tagebuch/The ORB.md",
+    "Charaktere/Michael's Rogue.md",
+    "Charaktere/Imogen's Druidin.md",
+    "Charaktere/Jade.md",
+    "Charaktere/Bob.md",
+    "Charaktere/Torah.md",
+    "Lore/Ephara.md",
+    "NPCs/Elara Familie.md",
+    "NPCs/Orivanne.md",
+    "NPCs/Orivanne's Menschenprinz.md",
+    "NPCs/Rose.md",
+    "NPCs/Unbenannter Sklavenhändler.md",
+    "NPCs/Wandernder Magischer Laden.md",
+    "Orte/Städte/Kuhlbedran.md",
+    "Orte/Städte/LeDreux.md",
+    "Orte/Tavernen/Die Blaue Gabel.md",
+    "Quest Tagebuch/Genasi-Sklavenhandel.md",
+    "Quest Tagebuch/Warforged Mystery.md",
+    "Session Tagebuch",
+    "Party.md",
+    "Orte/Städte",
+    "Untitled.canvas",
+    "Lord Elara.md",
+    "Orte/Tavernen",
+    "Orte",
+    "create a link.md",
+    "Lore",
+    "Welcome.md",
+    "NPCs",
+    "Quest Tagebuch",
+    "Charaktere"
   ]
 }
