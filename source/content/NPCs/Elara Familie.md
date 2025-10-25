@@ -1,5 +1,5 @@
 ---
-location: "[[LeDreux]]"
+location: "[[Le Dreux]]"
 relatedQuest: "[[Genasi-Sklavenhandel]]"
 tags:
   - NPC

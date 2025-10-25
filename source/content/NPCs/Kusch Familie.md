@@ -1,5 +1,5 @@
 ---
-location: "[[LeDreux]]"
+location: "[[Le Dreux]]"
 isRace: Elf
 tags: NPC
 ---

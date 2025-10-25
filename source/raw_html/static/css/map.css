@@ -1,0 +1,12 @@
+/* Map specifics */
+#map {
+    /* Global vars */
+    --ayun-map-height: 2483px;
+    --ayun-map-width: 3513px;
+    --map-scale: 3;
+
+    height: calc(var(--ayun-map-height) / var(--map-scale));
+    width: calc(var(--ayun-map-width) / var(--map-scale));
+
+    background-color: #AEBDB6;
+}
