@@ -38,9 +38,9 @@ const markers = {
         amstedaim: L.marker(
             paintToPoint([1274,834]),
             config_city_marker
-        ).bindPopup(minorCityPopup("Amstedaim", "./Orte/Städte/Amstedain", "A small town known for its beautiful landscapes.")),
-        moulin: L.marker(paintToPoint([1423,931]), config_city_marker).bindPopup(minorCityPopup("Moulin", "./Orte/Städte/Moulin", "A quaint village famous for its windmill.")),
-        ledreux: L.marker(paintToPoint([1474,1025]), config_city_marker).bindPopup(minorCityPopup("Ledreux", "./Orte/Städte/Ledreux", "A bustling town known for its markets.")),
+        ).bindPopup(minorCityPopup("Amstedaim", "./Orte/Städte/Amstedain", "Der Anfangspunkt unserer Quest.")),
+        moulin: L.marker(paintToPoint([1423,931]), config_city_marker).bindPopup(minorCityPopup("Moulin", "./Orte/Städte/Moulin", "Viel verrücktes, ein weggerannter Rogue, ein magischer Ranger und ein sehr guter Plan jemanden auf ein Schiff zu locken.")),
+        ledreux: L.marker(paintToPoint([1474,1025]), config_city_marker).bindPopup(minorCityPopup("Le Dreux", "./Orte/Städte/Le-Dreux", "Nächster Halt. Wird bestimmt nichts schiefgehen.")),
 
     },
     encounters: {
